@@ -1,4 +1,4 @@
-// Q -  Write a C program to delete the element at a given 1-based position pos from an array of n integers. Shift remaining elements to the left.
+// Q 1-  Write a C program to delete the element at a given 1-based position pos from an array of n integers. Shift remaining elements to the left.
 // sample test cases: Input:
 //5
 //10 20 30 40 50
@@ -14,6 +14,8 @@
 
 //Output:
 //- Print the updated array with (n-1) elements, space-separate
+
+
 #include <stdio.h>
 
 int main() {
